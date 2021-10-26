@@ -127,6 +127,16 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "Poopsie",
+      "species": "Leopard",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "quiet",
+        "fierce"
+      ],
+      "id": "13"
     }
   ]
 }
