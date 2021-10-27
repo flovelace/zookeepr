@@ -137,6 +137,15 @@
         "fierce"
       ],
       "id": "13"
+    },
+    {
+      "name": "Shadow",
+      "species": "Shiba Inu",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
